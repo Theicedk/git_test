@@ -1,1 +1,4 @@
-JHello. Just testing git here!
+Hello! Just testing git here!
+
+
+Now adding some changes to test "git commit" without using -m
